@@ -18,5 +18,13 @@ Prediction- The model predicts the price for a house of 180 sqft as ~3500.
 
 Plot: Shows data points and the fitted regression line.
 
+Contact:  (If you'd like to connect, collaborate, or provide feedback)
+ 
+Author : Janardhan
+  
+-Email: janadrjt6604@gmail.com  
+-LinkedIn: [linkedin.com/in/janardhan-](https://www.linkedin.com/in/janardhan-)  
+-GitHub: [ggithub.com/jana6604](https://github.com/jana6604)
+
 License:
 This project is licensed under the MIT License.
